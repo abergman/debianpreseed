@@ -1,0 +1,2 @@
+echo "192.168.0.1 puppet" >> /etc/hosts
+echo "START=yes\n#Startup options\nDAEMON_OPTS=""" > /etc/default/puppet
